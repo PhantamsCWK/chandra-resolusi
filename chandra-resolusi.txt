@@ -1,2 +1,5 @@
 Chandra resolusi
 -belajar backend sampai semester 2
+-belajar git 
+-belajar framework
+-belajar api
